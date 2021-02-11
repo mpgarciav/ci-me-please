@@ -13,16 +13,24 @@ Use the Gradle wrapper to run your app:
 `./gradlew run`
 
 # Your task
+- Clone this repo
 - Create a simple CI pipeline for this application on [Travis CI](https://docs.travis-ci.com/) with (at least) the following steps:
     - Checkout
     - Test
     - Build
     - Slack notification on success or failure
-    - Do a little CD: Deploy this app to Heroku on success
+    - Deploy this app to Heroku on success (yay! Continuous Deployment!)
 - Bonus points:
+    - Add the [Travis status image](https://docs.travis-ci.com/user/status-images/) to your Readme
     - Add Pull Requests flows to your CI
     - Build a container for your app in your CI flow
     - Deploy the container to Heroku
+
+## Deliverable
+Send us:
+- Your repo URL
+- Your Travis URL
+- Your deployed app URL
 
 # Suggestions
 - Read (at least) the [Travis CI Core concepts for Beginners](https://docs.travis-ci.com/user/for-beginners/) and the [Travis CI tutorial](https://docs.travis-ci.com/user/tutorial/). 
