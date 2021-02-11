@@ -19,7 +19,7 @@ Use the Gradle wrapper to run your app:
     - Test
     - Build
     - Slack notification on success or failure
-    - Deploy this app to Heroku on success (yay! Continuous Deployment!)
+    - Deploy this app to [Heroku](https://www.heroku.com/) on success (yay! Continuous Deployment!)
 - Bonus points:
     - Add the [Travis status image](https://docs.travis-ci.com/user/status-images/) to your Readme
     - Add Pull Requests flows to your CI
