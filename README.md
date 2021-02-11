@@ -1,18 +1,18 @@
 # ci-me-please
 Sample Gradle app for learning CI
 
-# Instructions
-## Testing the app
+# :page_with_curl: Instructions
+### Testing the app
 Use the Gradle wrapper to test your app: 
 `./gradlew test`
-## Building the app
+### Building the app
 Use the Gradle wrapper to build your app: 
 `./gradlew build`
-## Running the app
+### Running the app
 Use the Gradle wrapper to run your app:
 `./gradlew run`
 
-# Your task
+# :mortar_board: Your task
 - Clone this repo
 - Create a simple CI pipeline for this application on [Travis CI](https://docs.travis-ci.com/) with (at least) the following steps:
     - Checkout
@@ -32,7 +32,7 @@ Send us:
 - Your Travis URL
 - Your deployed app URL
 
-# Suggestions
+# :shipit: Suggestions
 - Read (at least) the [Travis CI Core concepts for Beginners](https://docs.travis-ci.com/user/for-beginners/) and the [Travis CI tutorial](https://docs.travis-ci.com/user/tutorial/). 
     - Ask yourself, if we didn't provide these links, would you have looked for them?
     - How should you approach a completely new tool?
