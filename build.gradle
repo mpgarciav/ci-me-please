@@ -29,3 +29,6 @@ dependencies {
 
 // tag::wrapper[]
 // end::wrapper[]
+
+task stage(dependsOn: ['build', 'clean'])
+build.mustRunAfter clean
