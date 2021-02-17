@@ -1,6 +1,7 @@
 # ci-me-please
 Sample Gradle app for learning CI
-
+# Status
+[![Build Status](https://travis-ci.com/mpgarciav/ci-me-please.svg?branch=main)](https://travis-ci.com/mpgarciav/ci-me-please)
 # :page_with_curl: Instructions
 ### Testing the app
 Use the Gradle wrapper to test your app: 
