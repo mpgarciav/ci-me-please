@@ -18,3 +18,6 @@ deploy:
   on:
     repo: mpgarciav/ci-me-please
     all_branches: true
+branches:
+  only:
+    - main
