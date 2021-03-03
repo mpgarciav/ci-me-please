@@ -19,3 +19,7 @@ deploy:
     repo: mpgarciav/ci-me-please
     all_branches: true
 # testing if this still works...
+branches:
+  only:
+    - main
+# testing if the PR thing worked
